@@ -5,6 +5,7 @@ This repository contains a machine learning project that predicts the risk of di
 ## Project Overview
 
 The goal of this project is to develop a machine learning model that can predict the likelihood of an individual developing diabetes based on their health data. The dataset contains various features such as age, BMI, and blood pressure, which are used to predict a target variable representing the risk score.
+- You can download the data used in this project from Kaggle: [Diabetes Dataset](https://www.kaggle.com/datasets/mathchi/diabetes-data-set)
 
 ### Key Steps:
 1. **Data Loading and Preprocessing**: The data is loaded and preprocessed to handle missing values, encode categorical variables, and normalize numerical features.
